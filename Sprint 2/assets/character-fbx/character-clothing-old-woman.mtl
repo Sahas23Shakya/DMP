@@ -1,0 +1,63 @@
+# MTL Exporter v1.0 by Seungwoo Oh at CLO - Virtual Fashion Inc.
+newmtl HEAVY_FRONT_2371
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka D:/Coursework/DMP/Sprint 2/assets/character-fbx/character-clothing-old-woman_diffuse_1001.png
+map_Kd D:/Coursework/DMP/Sprint 2/assets/character-fbx/character-clothing-old-woman_diffuse_1001.png
+map_bump D:/Coursework/DMP/Sprint 2/assets/character-fbx/character-clothing-old-woman_normal_1001.png
+newmtl FABRIC_1_FRONT_2366
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka D:/Coursework/DMP/Sprint 2/assets/character-fbx/character-clothing-old-woman_diffuse_1001.png
+map_Kd D:/Coursework/DMP/Sprint 2/assets/character-fbx/character-clothing-old-woman_diffuse_1001.png
+map_bump D:/Coursework/DMP/Sprint 2/assets/character-fbx/character-clothing-old-woman_normal_1001.png
+newmtl sawl_FRONT_2376
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka D:/Coursework/DMP/Sprint 2/assets/character-fbx/character-clothing-old-woman_diffuse_1001.png
+map_Kd D:/Coursework/DMP/Sprint 2/assets/character-fbx/character-clothing-old-woman_diffuse_1001.png
+map_bump D:/Coursework/DMP/Sprint 2/assets/character-fbx/character-clothing-old-woman_normal_1001.png
+newmtl lambert1
+Ka 0.102853 0.102853 0.102853
+Kd 0.400000 0.400000 0.400000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+newmtl lambert1
+Ka 0.102853 0.102853 0.102853
+Kd 0.400000 0.400000 0.400000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+newmtl lambert1
+Ka 0.102853 0.102853 0.102853
+Kd 0.400000 0.400000 0.400000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+newmtl character_1:lambert2
+Ka 0.102853 0.102853 0.102853
+Kd 0.400000 0.400000 0.400000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+newmtl character_face1:blinn1
+Ka 0.102853 0.102853 0.102853
+Kd 0.400000 0.400000 0.400000
+Ks 0.032332 0.032332 0.032332
+Ns 6.311791
+illum 2
+d 1.000000

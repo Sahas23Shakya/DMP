@@ -1,0 +1,37 @@
+# MTL Exporter v1.0 by Seungwoo Oh at CLO - Virtual Fashion Inc.
+newmtl FABRIC_1_FRONT_2366
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka D:/Coursework/DMP/Sprint 2/assets/character-fbx/character-clothing-1_diffuse_1001.png
+map_Kd D:/Coursework/DMP/Sprint 2/assets/character-fbx/character-clothing-1_diffuse_1001.png
+map_bump D:/Coursework/DMP/Sprint 2/assets/character-fbx/character-clothing-1_normal_1001.png
+newmtl HEAVY_FRONT_2371
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka D:/Coursework/DMP/Sprint 2/assets/character-fbx/character-clothing-1_diffuse_1001.png
+map_Kd D:/Coursework/DMP/Sprint 2/assets/character-fbx/character-clothing-1_diffuse_1001.png
+map_bump D:/Coursework/DMP/Sprint 2/assets/character-fbx/character-clothing-1_normal_1001.png
+newmtl FABRIC_2_FRONT_2376
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka D:/Coursework/DMP/Sprint 2/assets/character-fbx/character-clothing-1_diffuse_1001.png
+map_Kd D:/Coursework/DMP/Sprint 2/assets/character-fbx/character-clothing-1_diffuse_1001.png
+map_bump D:/Coursework/DMP/Sprint 2/assets/character-fbx/character-clothing-1_normal_1001.png
+newmtl belt_FRONT_2381
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka D:/Coursework/DMP/Sprint 2/assets/character-fbx/character-clothing-1_diffuse_1001.png
+map_Kd D:/Coursework/DMP/Sprint 2/assets/character-fbx/character-clothing-1_diffuse_1001.png
+map_bump D:/Coursework/DMP/Sprint 2/assets/character-fbx/character-clothing-1_normal_1001.png
